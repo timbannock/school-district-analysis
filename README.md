@@ -1,7 +1,6 @@
-# school-district-analysis
-Module 4 lessons and work.
+# School District Analysis
 
-## 4.4.2: Overview of the School Data Analysis Project
+## Overview of the School Data Analysis Project
 Here is the list of deliverables for the analysis of the school district: 
 - A high-level snapshot of the district's key metrics, presented in a table format
 - An overview of the key metrics for each school, presented in a table format
@@ -12,3 +11,23 @@ Here is the list of deliverables for the analysis of the school district:
 	- School performance based on the budget per student
 	- School performance based on the school size 
 	- School performance based on the type of school
+
+We have replaced all of Thomas High School's 9th grade scores with 'NaN' to reflect that there may have been dishonest alterations, effectively removing all of those scores from the underlying math of the report.
+
+## Results
+How is the district summary affected?
+
+How is the school summary affected?
+
+How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+### How does replacing the ninth-grade scores affect the following:
+
+Math and reading scores by grade
+- In this case, Thomas High simply shows 'NaN' on the table for the 9th grade scores in both math and reading; the average scores themselves remain the same in all other grades, of course.
+
+Scores by school spending
+
+Scores by school size
+
+Scores by school type	
