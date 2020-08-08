@@ -16,6 +16,11 @@ We have replaced all of Thomas High School's 9th grade scores with 'NaN' to refl
 
 ## Results
 How is the district summary affected?
+- xxx
+
+![District summary with THS](https://github.com/timbannock/school-district-analysis/blob/master/Resources/district_summary_w_THS.PNG)
+
+![District summary without THS](https://github.com/timbannock/school-district-analysis/blob/master/Resources/district_summary_wo_THS.PNG)
 
 How is the school summary affected?
 
