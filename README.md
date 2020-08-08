@@ -15,24 +15,23 @@ Here is the list of deliverables for the analysis of the school district:
 We have replaced all of Thomas High School's 9th grade scores with 'NaN' to reflect that there may have been dishonest alterations, effectively removing all of those scores from the underlying math of the report.
 
 ## Results
-How is the district summary affected?
+### How is the district summary affected?
 - xxx
 
 ![District summary with THS](https://github.com/timbannock/school-district-analysis/blob/master/Resources/district_summary_w_THS.PNG)
 
 ![District summary without THS](https://github.com/timbannock/school-district-analysis/blob/master/Resources/district_summary_wo_THS.PNG)
 
-How is the school summary affected?
+### How is the school summary affected?
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-### How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Math and reading scores by grade
-- In this case, Thomas High simply shows 'NaN' on the table for the 9th grade scores in both math and reading; the average scores themselves remain the same in all other grades, of course.
+### Math and reading scores by grade
+In this case, Thomas High simply shows 'NaN' on the table for the 9th grade scores in both math and reading; the average scores themselves remain the same in all other grades, of course.
 
-Scores by school spending
+### Scores by school spending
 
-Scores by school size
+### Scores by school size
 
-Scores by school type	
+### Scores by school type	
