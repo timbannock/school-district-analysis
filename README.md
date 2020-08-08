@@ -62,6 +62,6 @@ The below images show these changes.
 
 The below images show these changes.
 
-![School type with THS](https://github.com/timbannock/school-district-analysis/blob/master/Resources/school_type_w_THS.PNG)
+![School type with THS](https://github.com/timbannock/school-district-analysis/blob/master/Resources/school_type_w_THS.png)
 
-![School type without THS](https://github.com/timbannock/school-district-analysis/blob/master/Resources/school_type_wo_THS.PNG)
+![School type without THS](https://github.com/timbannock/school-district-analysis/blob/master/Resources/school_type_wo_THS.png)
