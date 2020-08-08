@@ -65,3 +65,10 @@ The below images show these changes.
 ![School type with THS](https://github.com/timbannock/school-district-analysis/blob/master/Resources/school_type_w_THS.png)
 
 ![School type without THS](https://github.com/timbannock/school-district-analysis/blob/master/Resources/school_type_wo_THS.png)
+
+## Summary
+After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, we can see that:
+1. Thomase High School's standing in overall % of students passing is significantly impacted.
+2. The overall district is barely affected by one school's single grade (9th in this case) being removed from the statistical analysis.
+3. If there was dishonesty in the reporting of THS' 9th grade scores, it seemed to conform to roughly high averages, but was a noticeable blip when removed.
+4. Removing any scores change our analysis of students and grades in terms of spending, school size, and school type, and therefore create inaccuracies that need to be addressed, rather than simply throwing data out of the analysis altogether.
